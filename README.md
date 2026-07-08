@@ -15,20 +15,19 @@
 ```
 
 <p align="center">
-  <b>Computer Science Engineering Student · Developer · Cybersecurity Enthusiast</b>
+  <b>Computer Science Engineering Student · Developer · Aspiring Full-Stack Dev</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a strong interest in software development, problem-solving, and cybersecurity.
+I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a strong interest in software development, problem-solving, and Full-Stack Development.
 
 - 🌱 Currently learning Data Structures & Algorithms and strengthening core programming concepts
-- 💻 Comfortable with Python, Java, JavaScript, C, SQL, and exploring Dart
+- 💻 Comfortable with Python, Java, JavaScript, C, SQL
 - 🌐 Building frontend web projects using HTML, CSS, and JavaScript
 - 🧩 Exploring backend development and fundamentals of full-stack development
-- 🔐 Diving into Networking, Ethical Hacking & Cybersecurity — Kali Linux beginner
 - 🚀 Actively working on projects and sharing my learning journey on GitHub
 
 > I enjoy turning ideas into code, improving through practice, and continuously learning new technologies. Always curious, always building. 🚀
@@ -42,7 +41,7 @@ I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -56,7 +55,6 @@ I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a
 ![Eclipse](https://img.shields.io/badge/-ECLIPSE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-KALI%20LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-TERMINAL-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/-ARDUINO%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -99,6 +97,6 @@ I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a
 </p>
 
 <p align="center">
-  <i>"Always curious, always building."</i> 🚀
+  <i>🚀 Still exploring, still figuring out what clicks — but always building along the way</i>
 </p>
 
