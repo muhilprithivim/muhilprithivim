@@ -102,4 +102,3 @@ I'm **Muhil Prithivi**, a passionate Computer Science Engineering student with a
   <i>"Always curious, always building."</i> 🚀
 </p>
 
-<p align="center">📍 Tiruppur</p>
